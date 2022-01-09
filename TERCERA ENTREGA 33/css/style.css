@@ -1,0 +1,13 @@
+#productosgenerados {
+  margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+
+  #navbar1{
+    background-image: url("/63677174-fondo-de-muchos-pimientos-muy-picante-en-venta-en-la-verdulería.webp")
+    }
+    
+    
